@@ -21,7 +21,7 @@ There are guidelines that will determine which CSS rule takes precendent in the 
 
 - Inheritance
 
-&nbsp;
+----
 
 ## Last Rule
 
@@ -60,7 +60,7 @@ p {
 
 Here the `<p>` tag wil be green because the last **conflicting** rule took precedent
 
-&nbsp;
+----
 
 ## Specificity
 
@@ -72,7 +72,7 @@ Here the `<p>` tag wil be green because the last **conflicting** rule took prece
   - **p.discount** is more specific than **p**
   - **#city** is more specific than **img.town**
 
-&nbsp;
+----
 
 ## !important
 
@@ -118,7 +118,7 @@ p {
 Here we used the **!important** option in CSS to override the **Specificity guideline** that would have had the rule with the selector of `#thing` take precedence under **normal circumstances**
 
 
-&nbsp;
+----
 
 ## Inheritance
 

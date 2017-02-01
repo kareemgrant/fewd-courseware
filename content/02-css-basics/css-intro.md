@@ -24,7 +24,7 @@ p {
 
 ```
 
-&nbsp;
+----
 
 ## Anatomy of a CSS Rule
 
@@ -47,7 +47,7 @@ h1, h2, h3 {
 ```
 
 
-&nbsp;
+----
 
 
 ## Adding CSS to your site
@@ -61,7 +61,7 @@ There are three ways to add css to your site
 - External file
 
 
-&nbsp;
+----
 
 ### Inline CSS (avoid!)
 
@@ -76,7 +76,7 @@ There are three ways to add css to your site
 
 ```
 
-&nbsp;
+----
 
 ### Internal CSS (avoid!)
 
@@ -107,7 +107,7 @@ There are three ways to add css to your site
 
 ```
 
-&nbsp;
+----
 
 ### Add CSS using an external stylesheet (Recommended/Best Practice)
 
@@ -149,7 +149,7 @@ p {
 
 ```
 
-&nbsp;
+----
 
 
 ### `<link>` Tag

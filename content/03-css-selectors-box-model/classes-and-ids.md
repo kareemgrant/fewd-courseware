@@ -18,7 +18,7 @@ weight = 9
 
 - **Important:** Use of the class or id attribute by itself does not change the appearance of an element; CSS/Javascript must be involved
 
-&nbsp;
+----
 
 ## Class Attribute
 
@@ -50,7 +50,7 @@ weight = 9
 {{% /notice %}}
 
 
-&nbsp;
+----
 
 ## Id Attribute
 
@@ -80,14 +80,14 @@ weight = 9
 {{% /notice %}}
 
 
-&nbsp;
+----
 
 ## Naming classes and ids
 
 - Developers can choose any name they want for classes and ids, however the names you choose should be descriptive
 
 
-&nbsp;
+----
 
 ## When should you use classes instead of ids (or vice versa)?
 

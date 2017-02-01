@@ -55,7 +55,7 @@ weight = 6
 ![original left fit](/images/01/html_structure_browser.png)
 
 
-&nbsp;
+----
 
 ## HTML Headings
 
@@ -91,7 +91,7 @@ weight = 6
 
 ![original left fit](/images/01/headings_browser.png)
 
-&nbsp;
+----
 
 ## Paragraphs
 
@@ -121,7 +121,7 @@ weight = 6
 ![original left fit](/images/01/paragraphs_example_browser.png)
 
 
-&nbsp;
+----
 
 ## Lists
 
@@ -162,7 +162,7 @@ weight = 6
 - list items elements are always a child a list element (in this case the “unordered list” or ul element.
 
 
-&nbsp;
+----
 
 ## Links
 
@@ -191,7 +191,7 @@ weight = 6
 ![original left fit](/images/01/links_browser.png)
 
 
-&nbsp;
+----
 
 ## Images
 
@@ -226,7 +226,7 @@ weight = 6
 - .jpeg - No transparency, can be stored at different compression levels with varying amounts of "lossy-ness", typically the best format for photos
 
 
-&nbsp;
+----
 
 ## Many more tags
 

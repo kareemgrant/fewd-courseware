@@ -16,7 +16,7 @@ date = "2017-01-22T18:08:00-05:00"
 
 - Inform students that they have already seen this is use with the link tag when referencing a css file
 
-&nbsp;
+----
 
 ## Example Project with Multiple Folders/Files
 
@@ -32,7 +32,7 @@ Linking from **music index** page to the **music reviews** page
 
 ```
 
-&nbsp;
+----
 
 ### Navigating to a file in a Child Folder
 
@@ -43,7 +43,7 @@ Linking from the **homepage (top-level index.html)** to the **music listings** p
 
 ```
 
-&nbsp;
+----
 
 ### Navigating to a file in a Grandchild Folder
 
@@ -54,7 +54,7 @@ Linking from the **homepage (top-level index.html)** to the **dvd reviews** page
 
 ```
 
-&nbsp;
+----
 
 ### Navigating up to a file in a Parent Folder
 
@@ -67,7 +67,7 @@ Linking from the **music reviews** page to the **homepage (top-level index.html)
 
 Use `../` to move up **exactly 1 level** in the folder hierarchy
 
-&nbsp;
+----
 
 ### Navigating up to a file in a Grandparent Folder
 

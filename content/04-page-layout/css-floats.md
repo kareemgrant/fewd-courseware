@@ -14,7 +14,7 @@ weight = 15
 - Float property allows you to take an element in normal flow and place it as far to the left or right of the **containing** element as possible.
 - Floats are a common way of creating multi-column layouts
 
-&nbsp;
+----
 
 ## Floating Guidelines
 
@@ -24,7 +24,7 @@ weight = 15
 
 - Elements that sit below will wrap around the floated element, it prevent this you must **clear the float**
 
-&nbsp;
+----
 
 ## Adding floats using CSS
 
@@ -40,7 +40,7 @@ blockquote {
 **float** is a css property, the most common values are left and right
 
 
-&nbsp;
+----
 
 ## Float Example
 
@@ -50,7 +50,7 @@ blockquote {
 
 <a class="jsbin-embed" href="https://jsbin.com/bezosuj/embed?css,output">JS Bin on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?3.41.0"></script>
 
-&nbsp;
+----
 
 ## Side by Side Example
 
@@ -66,7 +66,7 @@ blockquote {
 
 - Fix: using the **clear** property
 
-&nbsp;
+----
 
 ## Clearing Floats Examples
 
@@ -85,7 +85,7 @@ blockquote {
 <a class="jsbin-embed" href="https://jsbin.com/vuzuriz/embed?css,output">JS Bin on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?3.41.0"></script>
 
 
-&nbsp;
+----
 
 ## Parent Container Issue
 
@@ -101,7 +101,7 @@ blockquote {
 - As a result, the border is not displayed correctly
 
 
-&nbsp;
+----
 
 ## Parent Container Issue - Resolved
 

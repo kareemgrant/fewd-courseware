@@ -20,7 +20,7 @@ weight = 11
 
 In example the above example, orange lines represent `<div>` tags
 
-&nbsp;
+----
 
 ## `<div>`
 
@@ -55,7 +55,7 @@ In example the above example, orange lines represent `<div>` tags
 
 ```
 
-&nbsp;
+----
 
 ## Structure using `<div>`s
 

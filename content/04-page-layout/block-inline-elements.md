@@ -22,7 +22,7 @@ weight = 9
   Full list of block level elements can be found [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
 {{% /notice %}}
 
-&nbsp;
+----
 
 ## Inline Elements
 
@@ -41,7 +41,7 @@ weight = 9
   Full list of inline elements can be found [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
 {{% /notice %}}
 
-&nbsp;
+----
 
 ## Inline-Block
 
@@ -51,6 +51,7 @@ weight = 9
 
 <a class="jsbin-embed" href="https://jsbin.com/vocasel/embed?css,output">JS Bin on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?3.41.0"></script>
 
+----
 
 ## Changing Default Layout Behavior of Elements
 

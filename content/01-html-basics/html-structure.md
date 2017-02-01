@@ -17,11 +17,11 @@ weight = 3
 <!--- Structure helps readers better understand the stories written in the newspaper-->
 
 
-&nbsp;
+----
 
 ![inline](/images/01/word_processor.png)
 
-&nbsp;
+----
 
 ![inline](/images/01/structure_html_version.png)
 

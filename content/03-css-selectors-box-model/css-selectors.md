@@ -14,7 +14,7 @@ weight = 11
 
 - Selectors are case sensitive, must match element names and attributes exactly
 
-&nbsp;
+----
 
 | Selector              |  Meaning                   | Example       |
 |:---------------------:|:-------------------------- | :------------ |

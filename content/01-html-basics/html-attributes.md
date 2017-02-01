@@ -19,7 +19,7 @@ weight = 5
 
 - They have two parts: name, value
 
-&nbsp;
+----
 
 ## Attribute Structure
 
@@ -32,7 +32,7 @@ characters within the brackets indicates the tags purpose
   - Is placed in double or single quotes
 
 
-&nbsp;
+----
 
 ## Example of a HTML Attribute 
 

@@ -19,7 +19,7 @@ weight = 4
 - SVN (subversion) and CVS are other version control programs (Git is the most popular)
 
 
-&nbsp;
+----
 
 ## What is Github?
 
@@ -32,7 +32,7 @@ weight = 4
 - Morphed into a "social network" for developers
 
 
-&nbsp;
+----
 
 ## Vocabulary
 
@@ -46,7 +46,7 @@ weight = 4
 - Clone
 - Pull Request
 
-&nbsp;
+----
 
 ## Respository
 
@@ -58,7 +58,7 @@ weight = 4
 
 - Repositories can have multiple collaborators and can be either public or private.
 
-&nbsp;
+----
 
 ## Commit
 
@@ -69,7 +69,7 @@ weight = 4
 - Commits usually contain a commit message which is a brief description of what changes were made
 
 
-&nbsp;
+----
 
 ## Branch
 
@@ -79,7 +79,7 @@ weight = 4
 
 - When you've made the changes you want to make, you can merge your branch back into the master branch to publish your changes
 
-&nbsp;
+----
 
 ## Merge
 
@@ -87,7 +87,7 @@ weight = 4
 
 - This often happens as a Pull Request (which can be thought of as a request to merge)
 
-&nbsp;
+----
 
 ## Push
 
@@ -95,14 +95,14 @@ weight = 4
 
 - For instance, if you change something locally, you'd want to then push those changes so that others may access them
 
-&nbsp;
+----
 
 ## Pull
 
 - Pulls code from a remote repository and merges it with code in your local repository (on your computer)
 
 
-&nbsp;
+----
 
 ## Fork
 
@@ -111,14 +111,14 @@ weight = 4
 - Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea
 
 
-&nbsp;
+----
 
 ## Clone
 
 - Copies a remote repository down to your computer and creates a link between the two
 
 
-&nbsp;
+----
 
 ## Pull Request
 

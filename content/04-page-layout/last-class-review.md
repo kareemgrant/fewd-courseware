@@ -14,7 +14,7 @@ weight = 6
 
 - Selectors are case sensitive, must match element names and attributes exactly
 
-&nbsp;
+----
 
 | Selector              |  Meaning                   | Example       |
 |:---------------------:|:-------------------------- | :------------ |
@@ -34,7 +34,7 @@ weight = 6
 {{% /notice %}}
 
 
-&nbsp;
+----
 
 ## CSS Box Model
 
@@ -55,7 +55,7 @@ weight = 6
 <!--- Block elements (by default) start on the a new line | <body><p><h1> tags are examples of block elements-->
 <!--- Inline elements Flow within the text and do not start on a new line Examples of inline elements include: <a>, <span>, <img>, <b>-->
 
-&nbsp;
+----
 
 ### Box Model consists of:
 
@@ -68,7 +68,7 @@ weight = 6
 ![inline](/images/03/box_model_diagram.gif)
 
 
-&nbsp;
+----
 
 ### Margin
 
@@ -77,7 +77,7 @@ weight = 6
 - Create a gap between the edges of two adjacent boxes
 
 
-&nbsp;
+----
 
 ### Padding
 
@@ -86,7 +86,7 @@ weight = 6
 - Adding padding helps to increase readability of a box’s content
 
 
-&nbsp;
+----
 
 ### Border
 
