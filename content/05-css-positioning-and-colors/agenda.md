@@ -8,4 +8,16 @@ weight = 6
 
 +++
 
-- xxx
+- Review last class
+
+- Review Layout Challenge 
+
+- CSS Colors
+
+- CSS Positioning
+
+- Background Images
+
+- Code Along
+
+- Lab

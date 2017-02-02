@@ -8,4 +8,9 @@ weight = 5
 
 +++
 
-- xxx
+- Introduce CSS Colors
+
+- Discuss CSS Positioning
+
+- Understand how to handle background images
+
