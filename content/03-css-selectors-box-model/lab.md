@@ -8,5 +8,11 @@ weight = 19
 
 +++
 
-## Lab
+## Lab: Relaxr Blog
+
+- Work individually or in teams to recreate the html page depicted in the image below.
+
+- The files for this lab can be found in the following folder: **starter_code/relaxr_blog**
+
+![inline](/images/05/relaxr_blog.jpg)
 

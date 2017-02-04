@@ -7,5 +7,14 @@ weight = 21
 
 +++
 
-## Homework
+## Homework Assignment - Resume Website for a Famous Person
+
+Directions:
+
+1. Fork the following respository: [Homework #1](https://github.com/FEWD-1-11-17/homework-01-famous-person-resume-website)
+
+2. Review the assignment [here](https://github.com/FEWD-1-11-17/homework-01-famous-person-resume-website/blob/master/README.md)
+
+3. Use process covered in the [Git/Github Tutorial](/00-dev-tools-github/github-tutorial) to submit your assignment
+
 

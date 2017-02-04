@@ -35,10 +35,11 @@ weight = 13
 
 - Usually accompanied by box offsets: top, right, bottom, left.
 
-- It will not effect the other elements on the page
+- It will not effect the other elements on the page, surrounding elements **stay in the position they would be in in normal flow**
 
-^
-If you set position: relative; on an element but no other positioning attributes (top, left, bottom or right), it will have no effect on it's positioning at all, it will be exactly as it would be if you left it as position: static; But if you DO give it some other positioning attribute, say, top: 10px;, it will shift it's position 10 pixels DOWN from where it would NORMALLY be
+{{% notice tip %}}
+  If you set position: relative; on an element but no other positioning attributes (top, left, bottom or right), it will have no effect on it's positioning at all, it will be exactly as it would be if you left it as position: static; But if you DO give it some other positioning attribute, say, top: 10px;, it will shift it's position 10 pixels DOWN from where it would NORMALLY be
+{{% /notice %}}
 
 
 ![inline](/images/05/relative_positioning.png)
@@ -49,15 +50,17 @@ If you set position: relative; on an element but no other positioning attributes
 
 ### Absolute Positioning
 
-- This type of positioning takes box out of normal flow and **no longer affects the position of other elements on the page**
+- This type of positioning takes box out of normal flow
 
-- Other elements act is if the element is not longer there
+- Other elements **act is if the absolutely positioned element is not longer there**
 
 - Box offset properties (top or bottom and left or right) are used to position the element
 
 - Elements positioned absolutely will be positioned relative to the nearest **positioned** element
 
-Remember that these values will be relative to the next parent element with relative (or absolute) positioning. If there is no such parent, it will default all the way back up to the <html> element itself meaning it will be placed relatively to the page itself.
+{{% notice tip %}}
+  Remember that these values will be relative to the next parent element with relative (or absolute) positioning. If there is no such parent, it will default all the way back up to the <html> element itself meaning it will be placed relatively to the page itself.
+{{% /notice %}}
 
 
 ![inline](/images/05/absolute_positioning.png)
@@ -74,12 +77,13 @@ Remember that these values will be relative to the next parent element with rela
 
 - Box offset properties (top or bottom and left or right) specify where the element should appear in relation to browser window
 
-- Example demonstrates how one might create a fixed navbar
 
 {{% notice tip %}}
   A fixed position element is **positioned relative to the viewport, or the browser window itself**. The viewport doesn't change when the window is scrolled.
 {{% /notice %}}
 
+
+Fixed positioning can be used to create a fixed navbar
 
 ![inline](/images/05/fixed_positioning.png)
 
